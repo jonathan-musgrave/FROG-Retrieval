@@ -1,3 +1,0 @@
-LIBRARY	dZdE_pg
-EXPORTS
-	mexFunction
